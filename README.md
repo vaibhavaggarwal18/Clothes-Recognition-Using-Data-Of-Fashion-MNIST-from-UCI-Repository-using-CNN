@@ -1,1 +1,1 @@
-# Clothes-Recognition-Using-Data-Of-Fashion-MNIST-from-UCI-Repository-using-Convolutional-Neural-Netwo
+# Clothes-Recognition-Using-Data-Of-Fashion-MNIST-from-UCI-Repository-using-CNN
